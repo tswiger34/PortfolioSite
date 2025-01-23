@@ -1,17 +1,17 @@
 # Overview
 This file is where I am going to outline the workflow, features, etc. for my portfolio site.
-**Audience**: Recruiters/potential employers
-**Skills to Emphasize** MLOps, machine learning, and experimentation
-**Pages**: Home, About, Projects, Contact
-**Other Requirements**: Hosted on GitHub Pages, mostly static
+- **Audience**: Recruiters/potential employers
+- **Skills to Emphasize** MLOps, machine learning, and experimentation
+- **Pages**: Home, About, Projects, Contact
+- **Other Requirements**: Hosted on GitHub Pages, mostly static
 
 ## Tech Stack
-**Frontend**: primarily Next.js w/ React
-**Backend**: GitHub Pages, SQLite as needed
+- **Frontend**: primarily Next.js w/ React
+- **Backend**: GitHub Pages, SQLite as needed
 
 ## Design and Structure
-**UI Planning**: Figma
-**Color Pallete**: Primary: Black, Secondary: Grey/White/Silver, Tertiary: astronomy-themed colors such as various blues, pinks, and purples
+- **UI Planning**: Figma
+- **Color Pallete**: Primary: Black, Secondary: Grey/White/Silver, Tertiary: astronomy-themed colors such as various blues, pinks, and purples
 
 ### About Me
 #### Who I am:

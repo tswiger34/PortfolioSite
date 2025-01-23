@@ -32,13 +32,15 @@ Links:
 - SAFT
 - Contact Info
 
-### My Tech Stack
-*Presentation*
+### **My Tech Stack**
 
------------------
-| Visualization |
------------------
+| **My Primary Tech Stack**              | **Primary Libraries**                                                  | **Other Technologies Used**                                             |
+|----------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| **Data Collection & ETL**              | **Programming Languages:** Python, SQL <br> **Tools:** Jupyter Notebooks, R | **Data Extraction:** BeautifulSoup, Scrapy, SQLAlchemy <br> **ETL:** Pandas, NumPy, Apache Airflow <br> **APIs:** RESTful APIs, GraphQL <br> **Databases:** PostgreSQL, MySQL, MongoDB |
+| **Data Exploration & Visualization**   | **Programming Languages:** Python <br> **Tools:** Jupyter Notebooks, RStudio | **Visualization:** Matplotlib, Seaborn, Plotly, Tableau <br> **Exploration:** Pandas Profiling, Sweetviz <br> **BI Tools:** Power BI <br> **Visualization Platforms:** D3.js |
+| **Modeling & Experimentation**         | **Programming Languages:** Python, R <br> **Tools:** Jupyter Notebooks, VS Code | **Machine Learning:** Scikit-learn, TensorFlow, PyTorch <br> **Statistical Modeling:** Statsmodels, R’s caret <br> **AutoML Tools:** AutoKeras, H2O.ai <br> **Experiment Tracking:** MLflow, Weights & Biases |
+| **Evaluation & Validation**            | **Programming Languages:** Python <br> **Tools:** Jupyter Notebooks       | **Validation Metrics:** Scikit-learn metrics, TensorBoard <br> **Cross-Validation:** K-Fold, Stratified Sampling <br> **A/B Testing Tools:** Optimizely <br> **Performance Monitoring:** Prometheus |
+| **Deployment & Presentation**          | **Programming Languages:** Python, JavaScript <br> **Tools:** Streamlit, Flask, Django | **Web Frameworks:** Flask, Django, FastAPI <br> **Visualization Dashboards:** Dash, Plotly Dash, Streamlit <br> **Containerization:** Docker <br> **CI/CD:** GitHub Actions, Jenkins <br> **Cloud Services:** AWS (S3, EC2), Heroku, Render |
+| **Collaboration & Version Control**    | **Version Control:** Git, GitHub, GitLab <br> **Project Management:** Trello, Jira | **Documentation:** Sphinx, MkDocs <br> **Notebook Sharing:** JupyterHub, nbviewer <br> **Collaboration Tools:** Slack, Microsoft Teams <br> **Code Review:** Pull Requests, CodeLinting tools (ESLint, Pylint) |
 
-*Experimentation*
 
-*ETL*
